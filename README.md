@@ -16,7 +16,7 @@ To use this application, type a task into the time block that you choose. Click 
 
 ## Visuals
 Here is an example of the functionality of the application. 
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
+![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/demo.gif)
 
 ## Links
 [Application Website](https://bethdecarlo..github.io/work--day-scheduler/)
